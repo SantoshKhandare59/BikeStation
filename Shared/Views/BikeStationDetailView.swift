@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct BikeStationDetailView: View {
+    let station: BikeStation
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
@@ -15,6 +16,6 @@ struct BikeStationDetailView: View {
 
 struct BikeStationDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        BikeStationDetailView()
+        BikeStationDetailView(station: BikeStation(id: "1", name: "Bike station", bikes: 12, availablebikes: 8, coordinates: BikeStation.Coordinates(latitude: 8.0, longitude: 6.0)))
     }
 }

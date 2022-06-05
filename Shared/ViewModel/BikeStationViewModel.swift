@@ -8,6 +8,7 @@
 import Foundation
 import Combine
 
+/// View model to bind data and call api
 final class BikeStationViewModel: ObservableObject {
     @Published var data = [BikeStation]()
     @Published var state: ResultState = .loading
@@ -23,7 +24,7 @@ final class BikeStationViewModel: ObservableObject {
     init(service: APIService) {
         self.service = service
     }
-    
+        
     func fetchBikeStations() {
         self.state = .loading
         let url = BikeStationEndpoint.get(mtype: "pub_transport", co: "stacje_rowerowe").url(baseURL: Constants.baseURL)
