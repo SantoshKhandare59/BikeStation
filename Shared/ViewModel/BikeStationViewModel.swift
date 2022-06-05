@@ -15,7 +15,7 @@ final class BikeStationViewModel: ObservableObject {
     private let service: APIService
     private var cancellable: Cancellable?
     
-    enum ResultState {
+    enum ResultState: Equatable {
         case loading
         case success
         case failure(String)
@@ -24,7 +24,8 @@ final class BikeStationViewModel: ObservableObject {
     init(service: APIService) {
         self.service = service
     }
-        
+       
+    ///
     func fetchBikeStations() {
         self.state = .loading
         let url = BikeStationEndpoint.get(mtype: "pub_transport", co: "stacje_rowerowe").url(baseURL: Constants.baseURL)
