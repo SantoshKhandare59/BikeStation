@@ -98,58 +98,6 @@ class BikeStationAPIServiceTests: XCTestCase {
 
 }
 
-protocol APIService {
-    func get(from url: URL) -> AnyPublisher<[BikeStation], Error>
-}
 
-enum APIServiceError: Error {
-    case networkError(Error)
-    case invalidResponse
-    case serverError
-    case parsing
-    
-    var errorDescription: String? {
-        switch self {
-        case .networkError(let error):
-            return "Transport error: \(error)"
-        case .invalidResponse:
-            return "Invalid response"
-        case .serverError:
-            return "Server not responsing"
-        case .parsing:
-            return "The server returned data in an unexpected format. Try updating the app."
-        }
-    }
-}
 
-final class BikeStationAPI: APIService {
-    private let session: URLSession
-    public init(session: URLSession) {
-        self.session = session
-    }
-    
-    func get(from url: URL) -> AnyPublisher<[BikeStation], Error> {
-        return session.dataTaskPublisher(for: url)
-            .mapError { error -> Error in
-                return APIServiceError.networkError(error)
-            }
-            .tryMap { output in
-                guard let urlResponse = output.response as? HTTPURLResponse else {
-                    throw APIServiceError.invalidResponse
-                }
-                guard self.isOK(urlResponse) else {
-                    throw APIServiceError.serverError
-                }
-                return output.data
-            }
-            .tryMap { data in
-                return try BikeStationMapper.map(data)
-            }
-            .receive(on: RunLoop.main)
-            .eraseToAnyPublisher()
-    }
-    
-    private func isOK(_ response: HTTPURLResponse) -> Bool {
-        (200...299).contains(response.statusCode)
-    }
-}
+
