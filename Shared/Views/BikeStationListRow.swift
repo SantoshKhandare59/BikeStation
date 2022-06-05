@@ -48,6 +48,7 @@ struct BikeStationListRow: View {
                     Spacer()
                 }.padding(.bottom)
             }
+            .contentShape(Rectangle())
         }.buttonStyle(.plain)
     }
 }

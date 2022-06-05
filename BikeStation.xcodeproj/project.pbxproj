@@ -25,6 +25,7 @@
 		5941DA1B284CB2F200E07404 /* BikeStationListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA1A284CB2F200E07404 /* BikeStationListRow.swift */; };
 		5941DA1D284CB30600E07404 /* BikeStationDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA1C284CB30600E07404 /* BikeStationDetailView.swift */; };
 		5941DA20284CB34700E07404 /* BikeStationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA1F284CB34700E07404 /* BikeStationViewModel.swift */; };
+		5941DA27284CC70100E07404 /* BikeStation--iOS--Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5941DA26284CC70100E07404 /* BikeStation--iOS--Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,7 +60,7 @@
 		5941DA1A284CB2F200E07404 /* BikeStationListRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationListRow.swift; sourceTree = "<group>"; };
 		5941DA1C284CB30600E07404 /* BikeStationDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationDetailView.swift; sourceTree = "<group>"; };
 		5941DA1F284CB34700E07404 /* BikeStationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationViewModel.swift; sourceTree = "<group>"; };
-		5941DA25284CBDC500E07404 /* BikeStation--iOS--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "BikeStation--iOS--Info.plist"; sourceTree = "<group>"; };
+		5941DA26284CC70100E07404 /* BikeStation--iOS--Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "BikeStation--iOS--Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +84,7 @@
 		5941D9AB284C8A7900E07404 = {
 			isa = PBXGroup;
 			children = (
-				5941DA25284CBDC500E07404 /* BikeStation--iOS--Info.plist */,
+				5941DA26284CC70100E07404 /* BikeStation--iOS--Info.plist */,
 				5941D9B0284C8A7900E07404 /* Shared */,
 				5941D9F2284C8D9200E07404 /* BikeStationTests */,
 				5941D9B9284C8A7C00E07404 /* Products */,
@@ -261,6 +262,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5941DA27284CC70100E07404 /* BikeStation--iOS--Info.plist in Resources */,
 				5941D9DD284C8A7C00E07404 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
