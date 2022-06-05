@@ -6,6 +6,7 @@
 //
 
 import XCTest
+@testable import BikeStation
 
 class BikeStationEndpointTests: XCTestCase {
 
@@ -17,19 +18,18 @@ class BikeStationEndpointTests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
-    func testExample() throws {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-        // Any test you write for XCTest can be annotated as throws and async.
-        // Mark your test throws to produce an unexpected failure when your test encounters an uncaught error.
-        // Mark your test async to allow awaiting for asynchronous code to complete. Check the results with assertions afterwards.
-    }
-
-    func testPerformanceExample() throws {
-        // This is an example of a performance test case.
-        self.measure {
-            // Put the code you want to measure the time of here.
-        }
+    func test_bikestation_endpointURL() {
+        let baseURL = URL(string: "http://www.poznan.pl")!
+            
+        let received = BikeStationEndpoint.get(mtype: "pub_transport", co: "stacje_rowerowe").url(baseURL: baseURL)
+        let expected = URL(string: "http://www.poznan.pl/mim/plan/map_service.html?mtype=pub_transport&co=stacje_rowerowe")!
+        
+        XCTAssertEqual(received.scheme, "http", "scheme")
+        XCTAssertEqual(received.host, "www.poznan.pl", "host")
+        XCTAssertEqual(received.path, "/mim/plan/map_service.html", "path")
+        XCTAssertEqual(received.query?.contains("mtype=pub_transport"), true, "mtype query param")
+        XCTAssertEqual(received.query?.contains("co=stacje_rowerow"), true, "co query param")
+        XCTAssertEqual(received, expected)
     }
 
 }
