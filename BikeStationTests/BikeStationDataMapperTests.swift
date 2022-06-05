@@ -6,6 +6,7 @@
 //
 
 import XCTest
+import CoreLocation
 
 class BikeStationDataMapperTests: XCTestCase {
 
@@ -60,5 +61,24 @@ final class BikeStationMapper {
     
     public enum Error: Swift.Error {
         case invalidData
+    }
+}
+
+struct BikeStation: Identifiable {
+    let id: String
+    let name: String
+    let bikes: Int
+    let availablebikes: Int
+    
+    var coordinates: Coordinates
+    var locationCoordinate: CLLocationCoordinate2D {
+        CLLocationCoordinate2D(
+            latitude: coordinates.latitude,
+            longitude: coordinates.longitude)
+    }
+    
+    struct Coordinates {
+        var latitude: Double
+        var longitude: Double
     }
 }
