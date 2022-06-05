@@ -14,7 +14,6 @@
 		5941DA00284C972700E07404 /* BikeStationEndpointTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941D9FF284C972700E07404 /* BikeStationEndpointTests.swift */; };
 		5941DA02284C973E00E07404 /* BikeStationDataMapperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA01284C973E00E07404 /* BikeStationDataMapperTests.swift */; };
 		5941DA04284C975300E07404 /* BikeStationAPIServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA03284C975300E07404 /* BikeStationAPIServiceTests.swift */; };
-		5941DA06284C976700E07404 /* BikeStationViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA05284C976700E07404 /* BikeStationViewModelTests.swift */; };
 		5941DA08284C98BC00E07404 /* BikeStationEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA07284C98BC00E07404 /* BikeStationEndpoint.swift */; };
 		5941DA0A284C9DF200E07404 /* BikeStationMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA09284C9DF200E07404 /* BikeStationMapper.swift */; };
 		5941DA0C284C9E1900E07404 /* BikeStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA0B284C9E1900E07404 /* BikeStation.swift */; };
@@ -49,7 +48,6 @@
 		5941D9FF284C972700E07404 /* BikeStationEndpointTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationEndpointTests.swift; sourceTree = "<group>"; };
 		5941DA01284C973E00E07404 /* BikeStationDataMapperTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationDataMapperTests.swift; sourceTree = "<group>"; };
 		5941DA03284C975300E07404 /* BikeStationAPIServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationAPIServiceTests.swift; sourceTree = "<group>"; };
-		5941DA05284C976700E07404 /* BikeStationViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationViewModelTests.swift; sourceTree = "<group>"; };
 		5941DA07284C98BC00E07404 /* BikeStationEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationEndpoint.swift; sourceTree = "<group>"; };
 		5941DA09284C9DF200E07404 /* BikeStationMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationMapper.swift; sourceTree = "<group>"; };
 		5941DA0B284C9E1900E07404 /* BikeStation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStation.swift; sourceTree = "<group>"; };
@@ -123,7 +121,6 @@
 				5941DA01284C973E00E07404 /* BikeStationDataMapperTests.swift */,
 				5941DA11284CA3BB00E07404 /* MockHelper */,
 				5941DA03284C975300E07404 /* BikeStationAPIServiceTests.swift */,
-				5941DA05284C976700E07404 /* BikeStationViewModelTests.swift */,
 			);
 			path = BikeStationTests;
 			sourceTree = "<group>";
@@ -301,7 +298,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5941DA04284C975300E07404 /* BikeStationAPIServiceTests.swift in Sources */,
-				5941DA06284C976700E07404 /* BikeStationViewModelTests.swift in Sources */,
 				5941DA00284C972700E07404 /* BikeStationEndpointTests.swift in Sources */,
 				5941DA02284C973E00E07404 /* BikeStationDataMapperTests.swift in Sources */,
 				5941DA10284CA3B600E07404 /* URLProtocolStub.swift in Sources */,
