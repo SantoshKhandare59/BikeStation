@@ -19,7 +19,7 @@ class BikeStationTests: XCTestCase {
     }
 
     func testExample() throws {
-        XCTAssertTrue(Constants().name.isEmpty, "")
+        
     }
 
 
