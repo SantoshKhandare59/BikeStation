@@ -1,0 +1,3233 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.911623,
+          52.402831
+        ],
+        "type": "Point"
+      },
+      "id": "15570",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "10",
+        "bikes": "11",
+        "label": "Poznań Główny",
+        "bike_racks": "18",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.912884,
+          52.410515
+        ],
+        "type": "Point"
+      },
+      "id": "15564",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "3",
+        "bikes": "9",
+        "label": "Most Teatralny",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.925207,
+          52.408381
+        ],
+        "type": "Point"
+      },
+      "id": "15565",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "11",
+        "bikes": "16",
+        "label": "Pl. Wolności",
+        "bike_racks": "24",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.937868,
+          52.41045
+        ],
+        "type": "Point"
+      },
+      "id": "15566",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "17",
+        "label": "Małe Garbary",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.95538,
+          52.409265
+        ],
+        "type": "Point"
+      },
+      "id": "15567",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "16",
+        "bikes": "12",
+        "label": "Rondo Śródka",
+        "bike_racks": "28",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.95003,
+          52.396245
+        ],
+        "type": "Point"
+      },
+      "id": "15568",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "14",
+        "bikes": "4",
+        "label": "Królowej Jadwigi/Juracka",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.928226,
+          52.400894
+        ],
+        "type": "Point"
+      },
+      "id": "15569",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "6",
+        "bikes": "13",
+        "label": "Półwiejska",
+        "bike_racks": "14",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.952344,
+          52.412266
+        ],
+        "type": "Point"
+      },
+      "id": "15571",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "9",
+        "bikes": "13",
+        "label": "Brama Poznania",
+        "bike_racks": "18",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.882231,
+          52.416981
+        ],
+        "type": "Point"
+      },
+      "id": "15579",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "13",
+        "label": "Ogrody",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.889366,
+          52.409331
+        ],
+        "type": "Point"
+      },
+      "id": "15575",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "10",
+        "bikes": "6",
+        "label": "Bukowska / Przybyszewskiego",
+        "bike_racks": "14",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.903871,
+          52.412443
+        ],
+        "type": "Point"
+      },
+      "id": "15577",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "6",
+        "bikes": "7",
+        "label": "Rynek Jeżycki",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.920544,
+          52.427556
+        ],
+        "type": "Point"
+      },
+      "id": "15574",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "8",
+        "bikes": "8",
+        "label": "Słowiańska",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.94762,
+          52.455836
+        ],
+        "type": "Point"
+      },
+      "id": "15573",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "5",
+        "label": "Boranta",
+        "bike_racks": "10",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.91783,
+          52.463789
+        ],
+        "type": "Point"
+      },
+      "id": "15572",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "15",
+        "bikes": "12",
+        "label": "Os. Sobieskiego",
+        "bike_racks": "26",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.902616,
+          52.397941
+        ],
+        "type": "Point"
+      },
+      "id": "15578",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "9",
+        "label": "Park Wilsona",
+        "bike_racks": "10",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.949914,
+          52.402818
+        ],
+        "type": "Point"
+      },
+      "id": "15580",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "15",
+        "label": "Politechnika Centrum Wykładowe",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.908774,
+          52.421097
+        ],
+        "type": "Point"
+      },
+      "id": "15581",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "3",
+        "bikes": "12",
+        "label": "Park Sołacki",
+        "bike_racks": "10",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.89539,
+          52.389852
+        ],
+        "type": "Point"
+      },
+      "id": "15582",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "12",
+        "label": "Głogowska / Hetmańska",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.975615,
+          52.405698
+        ],
+        "type": "Point"
+      },
+      "id": "15583",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "11",
+        "bikes": "14",
+        "label": "Termy",
+        "bike_racks": "23",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.902992,
+          52.372152
+        ],
+        "type": "Point"
+      },
+      "id": "15584",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "1",
+        "bikes": "14",
+        "label": "Dębiec",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.876534,
+          52.399447
+        ],
+        "type": "Point"
+      },
+      "id": "15585",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "13",
+        "label": "Grunwaldzka / Grochowska",
+        "bike_racks": "14",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.881988,
+          52.381752
+        ],
+        "type": "Point"
+      },
+      "id": "15586",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "8",
+        "label": "Górczyn",
+        "bike_racks": "13",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.935017,
+          52.398661
+        ],
+        "type": "Point"
+      },
+      "id": "15587",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "14",
+        "bikes": "3",
+        "label": "AWF",
+        "bike_racks": "17",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.943557,
+          52.380786
+        ],
+        "type": "Point"
+      },
+      "id": "15588",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "6",
+        "bikes": "26",
+        "label": "Rondo Starołęka",
+        "bike_racks": "20",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.93741,
+          52.43386
+        ],
+        "type": "Point"
+      },
+      "id": "15589",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "8",
+        "bikes": "11",
+        "label": "Rondo Solidarności",
+        "bike_racks": "18",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.941401,
+          52.467658
+        ],
+        "type": "Point"
+      },
+      "id": "15590",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "2",
+        "bikes": "11",
+        "label": "UAM Pływalnia",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.943385,
+          52.448155
+        ],
+        "type": "Point"
+      },
+      "id": "15591",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "11",
+        "label": "Os. Łokietka",
+        "bike_racks": "10",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.925388,
+          52.465629
+        ],
+        "type": "Point"
+      },
+      "id": "15592",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "2",
+        "bikes": "17",
+        "label": "UAM Wydział Nauk Politycznych i Dziennikarstwa",
+        "bike_racks": "14",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.919723,
+          52.451143
+        ],
+        "type": "Point"
+      },
+      "id": "15593",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "9",
+        "bikes": "19",
+        "label": "Kurpińskiego",
+        "bike_racks": "20",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.946829,
+          52.427766
+        ],
+        "type": "Point"
+      },
+      "id": "15594",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "12",
+        "bikes": "9",
+        "label": "Wilczak",
+        "bike_racks": "18",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.938922,
+          52.41647
+        ],
+        "type": "Point"
+      },
+      "id": "15595",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "11",
+        "bikes": "10",
+        "label": "Garbary",
+        "bike_racks": "18",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.935301,
+          52.404347
+        ],
+        "type": "Point"
+      },
+      "id": "15596",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "10",
+        "bikes": "5",
+        "label": "Zielona",
+        "bike_racks": "13",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.978555,
+          52.399908
+        ],
+        "type": "Point"
+      },
+      "id": "15597",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "17",
+        "bikes": "12",
+        "label": "Malta SKI",
+        "bike_racks": "28",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.919492,
+          52.407514
+        ],
+        "type": "Point"
+      },
+      "id": "15598",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "12",
+        "bikes": "9",
+        "label": "Zamek",
+        "bike_racks": "18",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.977332,
+          52.389895
+        ],
+        "type": "Point"
+      },
+      "id": "15599",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "11",
+        "bikes": "16",
+        "label": "Os. Lecha",
+        "bike_racks": "18",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.914101,
+          52.384994
+        ],
+        "type": "Point"
+      },
+      "id": "15600",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "10",
+        "bikes": "7",
+        "label": "Traugutta",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.834344,
+          52.411258
+        ],
+        "type": "Point"
+      },
+      "id": "15540",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "14",
+        "bikes": "1",
+        "label": "Brzechwy / Maklakiewicza",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.86208,
+          52.396
+        ],
+        "type": "Point"
+      },
+      "id": "15541",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "13",
+        "bikes": "6",
+        "label": "Bułgarska",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.939378,
+          52.407753
+        ],
+        "type": "Point"
+      },
+      "id": "15542",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "12",
+        "bikes": "11",
+        "label": "Ewangelicka",
+        "bike_racks": "18",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.90663,
+          52.41705
+        ],
+        "type": "Point"
+      },
+      "id": "15543",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "8",
+        "bikes": "8",
+        "label": "Kościelna",
+        "bike_racks": "14",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.92216,
+          52.41111
+        ],
+        "type": "Point"
+      },
+      "id": "15546",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "6",
+        "bikes": "5",
+        "label": "Libelta",
+        "bike_racks": "11",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.87527,
+          52.40442
+        ],
+        "type": "Point"
+      },
+      "id": "15547",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "9",
+        "label": "Marcelińska / Grochowska",
+        "bike_racks": "11",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.932646,
+          52.409455
+        ],
+        "type": "Point"
+      },
+      "id": "15548",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "5",
+        "bikes": "12",
+        "label": "Masztalarska",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.89995,
+          52.40338
+        ],
+        "type": "Point"
+      },
+      "id": "15549",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "11",
+        "bikes": "12",
+        "label": "Matejki",
+        "bike_racks": "19",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.981826,
+          52.409336
+        ],
+        "type": "Point"
+      },
+      "id": "15551",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "12",
+        "bikes": "6",
+        "label": "Krańcowa",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.93313,
+          52.36872
+        ],
+        "type": "Point"
+      },
+      "id": "15552",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "5",
+        "bikes": "8",
+        "label": "Starołęka",
+        "bike_racks": "10",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.91564,
+          52.38905
+        ],
+        "type": "Point"
+      },
+      "id": "15553",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "11",
+        "bikes": "3",
+        "label": "Prądzyńskiego / Kosińskiego",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.900883,
+          52.394213
+        ],
+        "type": "Point"
+      },
+      "id": "15555",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "16",
+        "bikes": "4",
+        "label": "Rynek Łazarski",
+        "bike_racks": "20",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.85124,
+          52.40647
+        ],
+        "type": "Point"
+      },
+      "id": "15556",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "9",
+        "bikes": "5",
+        "label": "Strzegomska / Gałczyńskiego",
+        "bike_racks": "11",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.898947,
+          52.410897
+        ],
+        "type": "Point"
+      },
+      "id": "15557",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "5",
+        "bikes": "3",
+        "label": "Szamarzewskiego / Wawrzyniaka",
+        "bike_racks": "8",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.87696,
+          52.41107
+        ],
+        "type": "Point"
+      },
+      "id": "15558",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "8",
+        "bikes": "11",
+        "label": "Szpitalna",
+        "bike_racks": "17",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.925935,
+          52.414959
+        ],
+        "type": "Point"
+      },
+      "id": "15559",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "2",
+        "bikes": "12",
+        "label": "Św. Barbary",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.921076,
+          52.405732
+        ],
+        "type": "Point"
+      },
+      "id": "15560",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "6",
+        "label": "Taczaka",
+        "bike_racks": "10",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.90508,
+          52.42647
+        ],
+        "type": "Point"
+      },
+      "id": "15562",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "16",
+        "label": "Uniwersytet Przyrodniczy",
+        "bike_racks": "13",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9209,
+          52.4015
+        ],
+        "type": "Point"
+      },
+      "id": "15563",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "6",
+        "bikes": "6",
+        "label": "Wierzbięcice",
+        "bike_racks": "11",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.939228,
+          52.405068
+        ],
+        "type": "Point"
+      },
+      "id": "15550",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "11",
+        "bikes": "8",
+        "label": "Mostowa",
+        "bike_racks": "18",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.92962,
+          52.41025
+        ],
+        "type": "Point"
+      },
+      "id": "15523",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "11",
+        "bikes": "5",
+        "label": "Aleje Marcinkowskiego",
+        "bike_racks": "13",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9205,
+          52.43632
+        ],
+        "type": "Point"
+      },
+      "id": "15524",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "12",
+        "bikes": "11",
+        "label": "Aleje Solidarności",
+        "bike_racks": "20",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.87798,
+          52.40683
+        ],
+        "type": "Point"
+      },
+      "id": "15525",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "9",
+        "bikes": "7",
+        "label": "Brzask / Międzychodzka",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.92442,
+          52.42544
+        ],
+        "type": "Point"
+      },
+      "id": "15526",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "3",
+        "bikes": "14",
+        "label": "Dożynkowa",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.91491,
+          52.40203
+        ],
+        "type": "Point"
+      },
+      "id": "15527",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "8",
+        "bikes": "11",
+        "label": "Dworzec Autobusowy",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9097,
+          52.40114
+        ],
+        "type": "Point"
+      },
+      "id": "15528",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "8",
+        "bikes": "10",
+        "label": "Dworzec Zachodni",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.88617,
+          52.38759
+        ],
+        "type": "Point"
+      },
+      "id": "15529",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "9",
+        "bikes": "7",
+        "label": "Jarochowskiego / Palacza",
+        "bike_racks": "14",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.892057,
+          52.393107
+        ],
+        "type": "Point"
+      },
+      "id": "15530",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "9",
+        "label": "Jarochowskiego / Potworowskiego",
+        "bike_racks": "7",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.935923,
+          52.430217
+        ],
+        "type": "Point"
+      },
+      "id": "15531",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "9",
+        "bikes": "8",
+        "label": "Murawa / Słowiańska",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.90415,
+          52.36353
+        ],
+        "type": "Point"
+      },
+      "id": "15532",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "2",
+        "bikes": "18",
+        "label": "Os. Dębina",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.957269,
+          52.390583
+        ],
+        "type": "Point"
+      },
+      "id": "15533",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "11",
+        "bikes": "6",
+        "label": "Os. Oświecenia",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.926033,
+          52.428542
+        ],
+        "type": "Point"
+      },
+      "id": "15534",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "6",
+        "bikes": "12",
+        "label": "Os. Przyjaźni",
+        "bike_racks": "14",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.940478,
+          52.43857
+        ],
+        "type": "Point"
+      },
+      "id": "15535",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "2",
+        "bikes": "16",
+        "label": "Os. Wichrowe Wzgórze",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.931718,
+          52.404883
+        ],
+        "type": "Point"
+      },
+      "id": "15536",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "1",
+        "bikes": "14",
+        "label": "Plac Wiosny Ludów",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.912459,
+          52.413737
+        ],
+        "type": "Point"
+      },
+      "id": "15537",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "10",
+        "bikes": "7",
+        "label": "Poznańska / Jeżycka",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.88974,
+          52.40309
+        ],
+        "type": "Point"
+      },
+      "id": "15538",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "9",
+        "label": "Rondo Jana Nowaka Jeziorańskiego",
+        "bike_racks": "12",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.891401,
+          52.412057
+        ],
+        "type": "Point"
+      },
+      "id": "15539",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "10",
+        "bikes": "8",
+        "label": "Szamarzewskiego / Długosza",
+        "bike_racks": "16",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.88472,
+          52.41346
+        ],
+        "type": "Point"
+      },
+      "id": "15608",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "12",
+        "label": "Szamotulska / Szamarzewskiego",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.86674,
+          52.40465
+        ],
+        "type": "Point"
+      },
+      "id": "15601",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "8",
+        "bikes": "10",
+        "label": "Bułgarska / Marcelińska",
+        "bike_racks": "14",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.895831,
+          52.398686
+        ],
+        "type": "Point"
+      },
+      "id": "15602",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "13",
+        "bikes": "5",
+        "label": "Wyspiańskiego / Jarochowskiego",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.89119,
+          52.38711
+        ],
+        "type": "Point"
+      },
+      "id": "15603",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "8",
+        "bikes": "8",
+        "label": "Głogowska / ul. Krauthofera",
+        "bike_racks": "13",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.93096,
+          52.4388
+        ],
+        "type": "Point"
+      },
+      "id": "15604",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "14",
+        "bikes": "6",
+        "label": "Połabska",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.91677,
+          52.38295
+        ],
+        "type": "Point"
+      },
+      "id": "15607",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "2",
+        "bikes": "18",
+        "label": "Rolna",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.97072,
+          52.42123
+        ],
+        "type": "Point"
+      },
+      "id": "15605",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "10",
+        "bikes": "6",
+        "label": "Rynek Wschodni",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.96008,
+          52.41643
+        ],
+        "type": "Point"
+      },
+      "id": "15606",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "5",
+        "bikes": "11",
+        "label": "Koronkarska",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.82359,
+          52.40972
+        ],
+        "type": "Point"
+      },
+      "id": "15609",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "5",
+        "bikes": "9",
+        "label": "Złotowska",
+        "bike_racks": "13",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.92183,
+          52.40354
+        ],
+        "type": "Point"
+      },
+      "id": "15544",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "22",
+        "bikes": "5",
+        "label": "Kościuszki",
+        "bike_racks": "24",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.917459,
+          52.460682
+        ],
+        "type": "Point"
+      },
+      "id": "15503",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "8",
+        "bikes": "11",
+        "label": "Szymanowskiego",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.915363,
+          52.430559
+        ],
+        "type": "Point"
+      },
+      "id": "15504",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "8",
+        "label": "Nasienna",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.94411,
+          52.39038
+        ],
+        "type": "Point"
+      },
+      "id": "15505",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "9",
+        "bikes": "6",
+        "label": "os. Piastowskie",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.95765,
+          52.38087
+        ],
+        "type": "Point"
+      },
+      "id": "15506",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "12",
+        "bikes": "8",
+        "label": "os. Stare Żegrze",
+        "bike_racks": "13",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.98327,
+          52.38755
+        ],
+        "type": "Point"
+      },
+      "id": "15507",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "3",
+        "bikes": "17",
+        "label": "Piaśnicka Rynek",
+        "bike_racks": "13",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.97061,
+          52.38231
+        ],
+        "type": "Point"
+      },
+      "id": "15508",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "11",
+        "label": "os. Orła Białego",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.98146,
+          52.39383
+        ],
+        "type": "Point"
+      },
+      "id": "15509",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "9",
+        "label": "os. Rusa/Chartowo",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.96276,
+          52.38567
+        ],
+        "type": "Point"
+      },
+      "id": "15510",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "10",
+        "bikes": "10",
+        "label": "Inflancka",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.86391,
+          52.39078
+        ],
+        "type": "Point"
+      },
+      "id": "15511",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "13",
+        "bikes": "7",
+        "label": "Keplera",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.95297,
+          52.39908
+        ],
+        "type": "Point"
+      },
+      "id": "15512",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "12",
+        "bikes": "14",
+        "label": "Kórnicka",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.96224,
+          52.3989
+        ],
+        "type": "Point"
+      },
+      "id": "15513",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "6",
+        "bikes": "13",
+        "label": "Polanka",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.88343,
+          52.36436
+        ],
+        "type": "Point"
+      },
+      "id": "15514",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "5",
+        "bikes": "14",
+        "label": "Buczka/Kołłątaja",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.91482,
+          52.42408
+        ],
+        "type": "Point"
+      },
+      "id": "15515",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "12",
+        "label": "Maczka",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.90034,
+          52.3917
+        ],
+        "type": "Point"
+      },
+      "id": "15516",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "5",
+        "bikes": "14",
+        "label": "Dmowskiego/Stablewskiego",
+        "bike_racks": "11",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9069,
+          52.40652
+        ],
+        "type": "Point"
+      },
+      "id": "15517",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "5",
+        "bikes": "13",
+        "label": "Targi",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.875813,
+          52.415929
+        ],
+        "type": "Point"
+      },
+      "id": "15518",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "4",
+        "label": "Piękna/Złota",
+        "bike_racks": "11",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.92564,
+          52.39787
+        ],
+        "type": "Point"
+      },
+      "id": "15519",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "10",
+        "bikes": "8",
+        "label": "Spadzista",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.931681,
+          52.407956
+        ],
+        "type": "Point"
+      },
+      "id": "15520",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "4",
+        "bikes": "8",
+        "label": "Sieroca",
+        "bike_racks": "9",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.945024,
+          52.445759
+        ],
+        "type": "Point"
+      },
+      "id": "15521",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Karpia",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.94206,
+          52.45386
+        ],
+        "type": "Point"
+      },
+      "id": "15522",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "6",
+        "bikes": "10",
+        "label": "Jasna Rola",
+        "bike_racks": "13",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.83362,
+          52.3832
+        ],
+        "type": "Point"
+      },
+      "id": "15502",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "7",
+        "bikes": "14",
+        "label": "Junikowo",
+        "bike_racks": "17",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.80386,
+          52.39727
+        ],
+        "type": "Point"
+      },
+      "id": "15501",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "6",
+        "bikes": "12",
+        "label": "Malwowa/Złotowska",
+        "bike_racks": "15",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.903515,
+          52.462177
+        ],
+        "type": "Point"
+      },
+      "id": "15613",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Os. Marysieńki",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.904419,
+          52.456425
+        ],
+        "type": "Point"
+      },
+      "id": "15614",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Os. Jagiełly",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.919075,
+          52.455838
+        ],
+        "type": "Point"
+      },
+      "id": "15615",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Os. Batorego/Atlantis",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.946361,
+          52.436487
+        ],
+        "type": "Point"
+      },
+      "id": "15616",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "1",
+        "label": "Włodarska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.930697,
+          52.43528
+        ],
+        "type": "Point"
+      },
+      "id": "15617",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Połabska Pętla",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.909132,
+          52.430317
+        ],
+        "type": "Point"
+      },
+      "id": "15618",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Bonin",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.911496,
+          52.435746
+        ],
+        "type": "Point"
+      },
+      "id": "15619",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Os. Winiary",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8984,
+          52.4283
+        ],
+        "type": "Point"
+      },
+      "id": "15620",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "1",
+        "label": "Niestachowska/Wojska Polskiego",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.87455,
+          52.446984
+        ],
+        "type": "Point"
+      },
+      "id": "15621",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Literacka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.86505,
+          52.452518
+        ],
+        "type": "Point"
+      },
+      "id": "15622",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "5",
+        "label": "Puszkina",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.882027,
+          52.459917
+        ],
+        "type": "Point"
+      },
+      "id": "15623",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "5",
+        "label": "Szarych Szeregów",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.895058,
+          52.448799
+        ],
+        "type": "Point"
+      },
+      "id": "15624",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "7",
+        "label": "Centrum Podolany",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.99294,
+          52.409727
+        ],
+        "type": "Point"
+      },
+      "id": "15625",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Mogileńska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.003633,
+          52.410069
+        ],
+        "type": "Point"
+      },
+      "id": "15626",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Miłostowo",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.902144,
+          52.409105
+        ],
+        "type": "Point"
+      },
+      "id": "15627",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "5",
+        "label": "Kraszewskiego",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.894423,
+          52.409034
+        ],
+        "type": "Point"
+      },
+      "id": "15628",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "0",
+        "label": "Bukowska/Polna",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.888004,
+          52.406562
+        ],
+        "type": "Point"
+      },
+      "id": "15629",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Opalenicka/Przybyszewskiego",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.896908,
+          52.394894
+        ],
+        "type": "Point"
+      },
+      "id": "15630",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Sczanieckiej",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.85754,
+          52.392386
+        ],
+        "type": "Point"
+      },
+      "id": "15631",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Węgorka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.850551,
+          52.388926
+        ],
+        "type": "Point"
+      },
+      "id": "15632",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "6",
+        "label": "Jeleniogórska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.863099,
+          52.38499
+        ],
+        "type": "Point"
+      },
+      "id": "15633",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Promienista/Jawornicka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.875141,
+          52.390622
+        ],
+        "type": "Point"
+      },
+      "id": "15634",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Promienista/Ściegiennego",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.891601,
+          52.38217
+        ],
+        "type": "Point"
+      },
+      "id": "15635",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "1",
+        "label": "Dmowskiego/Bosa",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.880744,
+          52.360058
+        ],
+        "type": "Point"
+      },
+      "id": "15636",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "7",
+        "label": "Leszczyńska/Kocha",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.886564,
+          52.370743
+        ],
+        "type": "Point"
+      },
+      "id": "15637",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Bohaterów Westerplatte",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.895641,
+          52.36726
+        ],
+        "type": "Point"
+      },
+      "id": "15638",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Opolska/Jesionowa",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.904409,
+          52.360442
+        ],
+        "type": "Point"
+      },
+      "id": "15639",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "7",
+        "label": "Os. Dębina",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.912808,
+          52.377452
+        ],
+        "type": "Point"
+      },
+      "id": "15640",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "6",
+        "label": "Wspólna",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.918751,
+          52.397293
+        ],
+        "type": "Point"
+      },
+      "id": "15641",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Przemysłowa/Św. Czesława",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.950995,
+          52.37999
+        ],
+        "type": "Point"
+      },
+      "id": "15642",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "1",
+        "label": "Kukułcza",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.950134,
+          52.388202
+        ],
+        "type": "Point"
+      },
+      "id": "15643",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "7",
+        "label": "Park Rataje",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.97892,
+          52.42652
+        ],
+        "type": "Point"
+      },
+      "id": "15644",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Bałtycka/Gdyńska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.908112,
+          52.369142
+        ],
+        "type": "Point"
+      },
+      "id": "15653",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Czechosłowacka/Łozowa",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8089,
+          52.435375
+        ],
+        "type": "Point"
+      },
+      "id": "15647",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Kozi Rynek",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.826942,
+          52.434245
+        ],
+        "type": "Point"
+      },
+      "id": "15648",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Karlińska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.86627,
+          52.423499
+        ],
+        "type": "Point"
+      },
+      "id": "15649",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Bużańska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.923719,
+          52.388353
+        ],
+        "type": "Point"
+      },
+      "id": "15651",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "1",
+        "label": "Dolna Wilda/US",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.926511,
+          52.395052
+        ],
+        "type": "Point"
+      },
+      "id": "15652",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "POSiR/Chwiałkowskiego",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.871831,
+          52.394265
+        ],
+        "type": "Point"
+      },
+      "id": "15646",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "1",
+        "label": "Palacza/Heweliusza",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.90503,
+          52.392939
+        ],
+        "type": "Point"
+      },
+      "id": "15650",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Kolejowa",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.89359,
+          52.40333
+        ],
+        "type": "Point"
+      },
+      "id": "15664",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "7",
+        "label": "Grunwaldzka/Wojskowa",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.87026,
+          52.4076
+        ],
+        "type": "Point"
+      },
+      "id": "15665",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "9",
+        "label": "Ognik",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.94792,
+          52.45234
+        ],
+        "type": "Point"
+      },
+      "id": "15667",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Naramowicka/Bolka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.91197,
+          52.44168
+        ],
+        "type": "Point"
+      },
+      "id": "15668",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "8",
+        "label": "Piątkowska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.95335,
+          52.43812
+        ],
+        "type": "Point"
+      },
+      "id": "15669",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "6",
+        "label": "Obrońców Tobruku",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.95041,
+          52.43004
+        ],
+        "type": "Point"
+      },
+      "id": "15670",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "6",
+        "label": "ZDM/Wilczak",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.96585,
+          52.42287
+        ],
+        "type": "Point"
+      },
+      "id": "15671",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "1",
+        "label": "Hlonda/Smolna",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.00426,
+          52.3888
+        ],
+        "type": "Point"
+      },
+      "id": "15672",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "6",
+        "label": "Folwarczna",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.02459,
+          52.40797
+        ],
+        "type": "Point"
+      },
+      "id": "15673",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "5",
+        "label": "Leszka/Browarna",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.00014,
+          52.38131
+        ],
+        "type": "Point"
+      },
+      "id": "15674",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Szwajcarska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.98766,
+          52.38495
+        ],
+        "type": "Point"
+      },
+      "id": "15675",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Piaśnicka/Kurlandzka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.96342,
+          52.39618
+        ],
+        "type": "Point"
+      },
+      "id": "15676",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Katowicka/Polanka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.955284,
+          52.37685
+        ],
+        "type": "Point"
+      },
+      "id": "15677",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Rondo Żegrze",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.94262,
+          52.35527
+        ],
+        "type": "Point"
+      },
+      "id": "15678",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "9",
+        "label": "Rondo Minikowo",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.91839,
+          52.34235
+        ],
+        "type": "Point"
+      },
+      "id": "15679",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Rondo Wielka Starołęka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.93048,
+          52.36628
+        ],
+        "type": "Point"
+      },
+      "id": "15680",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "5",
+        "label": "Książęca",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.86959,
+          52.37494
+        ],
+        "type": "Point"
+      },
+      "id": "15681",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "5",
+        "label": "Głogowska/Rawicka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.94975,
+          52.37236
+        ],
+        "type": "Point"
+      },
+      "id": "15682",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "1",
+        "label": "Unii Lubelskiej",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.88027,
+          52.44853
+        ],
+        "type": "Point"
+      },
+      "id": "15666",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "5",
+        "label": "PKP Podolany",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.968673,
+          52.391365
+        ],
+        "type": "Point"
+      },
+      "id": "15689",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Inflancka/os. Lecha",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.975188,
+          52.392587
+        ],
+        "type": "Point"
+      },
+      "id": "15688",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "6",
+        "label": "Radziejewskiego",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.870142,
+          52.386188
+        ],
+        "type": "Point"
+      },
+      "id": "15687",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Rembertowska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.865293,
+          52.411825
+        ],
+        "type": "Point"
+      },
+      "id": "15686",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Bukowska/Kolorowa",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.883585,
+          52.431607
+        ],
+        "type": "Point"
+      },
+      "id": "15685",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "6",
+        "label": "Golęcińska",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.009386,
+          52.364543
+        ],
+        "type": "Point"
+      },
+      "id": "15684",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "8",
+        "label": "Szczepankowo",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.022703,
+          52.351445
+        ],
+        "type": "Point"
+      },
+      "id": "15683",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "5",
+        "label": "Spławie",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.848426,
+          52.451793
+        ],
+        "type": "Point"
+      },
+      "id": "15691",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "8",
+        "label": "Stary Strzeszyn",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.867982,
+          52.462854
+        ],
+        "type": "Point"
+      },
+      "id": "15690",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "3",
+        "label": "Strzeszyn PKM",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.937097,
+          52.383795
+        ],
+        "type": "Point"
+      },
+      "id": "15692",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Wartostrada POSiR",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.828928,
+          52.464013
+        ],
+        "type": "Point"
+      },
+      "id": "15693",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "8",
+        "label": "Strzeszynek",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.870265,
+          52.445317
+        ],
+        "type": "Point"
+      },
+      "id": "15694",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "2",
+        "label": "Cegłowskiej",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.877842,
+          52.430103
+        ],
+        "type": "Point"
+      },
+      "id": "15695",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "5",
+        "label": "Rusałka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.886981,
+          52.442832
+        ],
+        "type": "Point"
+      },
+      "id": "15696",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Druskienicka",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.958391,
+          52.41368
+        ],
+        "type": "Point"
+      },
+      "id": "15697",
+      "type": "Feature",
+      "properties": {
+        "free_racks": "0",
+        "bikes": "4",
+        "label": "Zawady",
+        "bike_racks": "0",
+        "updated": "2022-06-02 13:16"
+      }
+    }
+  ],
+  "crs": {
+    "type": "EPSG",
+    "properties": {
+      "code": "4326"
+    }
+  },
+  "type": "FeatureCollection"
+}
