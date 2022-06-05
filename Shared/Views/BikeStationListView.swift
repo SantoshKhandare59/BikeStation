@@ -8,13 +8,33 @@
 import SwiftUI
 
 struct BikeStationListView: View {
+    @ObservedObject var viewModel: BikeStationViewModel
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        List(viewModel.data) { station in
+            ZStack {
+                NavigationLink(destination:
+                                BikeStationDetailView(station: station)
+                ) {
+                    EmptyView()
+                }
+                .opacity(0.0)
+                .buttonStyle(.plain)
+                
+                BikeStationListRow(station: station)
+            }
+            
+        }
+        .listStyle(.plain)
+        .navigationBarTitleDisplayMode(.inline)
+        .navigationTitle("")
+        .onAppear() {
+            viewModel.fetchBikeStations()
+        }
     }
 }
 
 struct BikeStationListView_Previews: PreviewProvider {
     static var previews: some View {
-        BikeStationListView()
+        BikeStationListView(viewModel: BikeStationViewModel(service: BikeStationAPI(session: URLSession.shared)))
     }
 }

@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct BikeStationApp: App {
+    @StateObject private var viewModel = BikeStationViewModel(service: BikeStationAPI(session: URLSession.shared))
     var body: some Scene {
         WindowGroup {
-            BikeStationListView()
+            NavigationView {
+                BikeStationListView(viewModel: viewModel)
+            }
         }
     }
 }

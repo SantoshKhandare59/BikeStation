@@ -4,5 +4,10 @@
 <dict>
 	<key>BaseURL</key>
 	<string>http://www.poznan.pl</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 </dict>
 </plist>
