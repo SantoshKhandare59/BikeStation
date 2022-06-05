@@ -6,6 +6,8 @@
 //
 
 import XCTest
+import Combine
+@testable import BikeStation
 
 class BikeStationAPIServiceTests: XCTestCase {
 
@@ -22,4 +24,8 @@ class BikeStationAPIServiceTests: XCTestCase {
     }
 
 
+}
+
+protocol APIService {
+    func get(from url: URL) -> AnyPublisher<[BikeStation], Error>
 }
