@@ -17,6 +17,9 @@
 		5941DA04284C975300E07404 /* BikeStationAPIServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA03284C975300E07404 /* BikeStationAPIServiceTests.swift */; };
 		5941DA06284C976700E07404 /* BikeStationViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA05284C976700E07404 /* BikeStationViewModelTests.swift */; };
 		5941DA08284C98BC00E07404 /* BikeStationEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA07284C98BC00E07404 /* BikeStationEndpoint.swift */; };
+		5941DA0A284C9DF200E07404 /* BikeStationMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA09284C9DF200E07404 /* BikeStationMapper.swift */; };
+		5941DA0C284C9E1900E07404 /* BikeStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA0B284C9E1900E07404 /* BikeStation.swift */; };
+		5941DA0E284C9E4600E07404 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941DA0D284C9E4600E07404 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +46,9 @@
 		5941DA03284C975300E07404 /* BikeStationAPIServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationAPIServiceTests.swift; sourceTree = "<group>"; };
 		5941DA05284C976700E07404 /* BikeStationViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationViewModelTests.swift; sourceTree = "<group>"; };
 		5941DA07284C98BC00E07404 /* BikeStationEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationEndpoint.swift; sourceTree = "<group>"; };
+		5941DA09284C9DF200E07404 /* BikeStationMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStationMapper.swift; sourceTree = "<group>"; };
+		5941DA0B284C9E1900E07404 /* BikeStation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeStation.swift; sourceTree = "<group>"; };
+		5941DA0D284C9E4600E07404 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +84,10 @@
 				5941D9B1284C8A7900E07404 /* BikeStationApp.swift */,
 				5941D9FC284C965300E07404 /* Constants.swift */,
 				5941D9B2284C8A7900E07404 /* ContentView.swift */,
+				5941DA0B284C9E1900E07404 /* BikeStation.swift */,
+				5941DA09284C9DF200E07404 /* BikeStationMapper.swift */,
 				5941DA07284C98BC00E07404 /* BikeStationEndpoint.swift */,
+				5941DA0D284C9E4600E07404 /* Extensions.swift */,
 				5941D9B3284C8A7C00E07404 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -206,10 +215,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5941DA0A284C9DF200E07404 /* BikeStationMapper.swift in Sources */,
 				5941D9DB284C8A7C00E07404 /* ContentView.swift in Sources */,
 				5941D9D9284C8A7C00E07404 /* BikeStationApp.swift in Sources */,
 				5941DA08284C98BC00E07404 /* BikeStationEndpoint.swift in Sources */,
 				5941D9FD284C965300E07404 /* Constants.swift in Sources */,
+				5941DA0C284C9E1900E07404 /* BikeStation.swift in Sources */,
+				5941DA0E284C9E4600E07404 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
