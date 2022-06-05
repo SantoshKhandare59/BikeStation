@@ -54,6 +54,9 @@ struct BikeStationListRow: View {
 
 struct BikeStationListRow_Previews: PreviewProvider {
     static var previews: some View {
-        BikeStationListRow(station: BikeStation(id: "1", name: "Bike station", bikes: 12, availablebikes: 8, coordinates: BikeStation.Coordinates(latitude: 8.0, longitude: 6.0)))
+        Group {
+            BikeStationListRow(station: BikeStation(id: "1", name: "Bike station", bikes: 12, availablebikes: 8, coordinates: BikeStation.Coordinates(latitude: 8.0, longitude: 6.0)))
+            BikeStationListRow(station: BikeStation(id: "1", name: "Bike station", bikes: 12, availablebikes: 8, coordinates: BikeStation.Coordinates(latitude: 8.0, longitude: 6.0)))
+        }
     }
 }
