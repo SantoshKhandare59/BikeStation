@@ -33,3 +33,32 @@ class BikeStationDataMapperTests: XCTestCase {
     }
 
 }
+
+final class BikeStationMapper {
+    private struct Root: Decodable {
+        private struct Feature: Decodable {
+            let id: String
+            let geometry: Geometry
+            let properties: Property
+            struct Geometry: Decodable {
+                let coordinates: [Double]
+            }
+            struct Property: Decodable {
+                let freeRacks, bikes, label, bikeRacks: String
+                let updated: Date
+                enum CodingKeys: String, CodingKey {
+                    case freeRacks = "free_racks"
+                    case bikes, label
+                    case bikeRacks = "bike_racks"
+                    case updated
+                }
+            }
+        }
+        private let type: String
+        private let features: [Feature]
+    }
+    
+    public enum Error: Swift.Error {
+        case invalidData
+    }
+}
